@@ -1,0 +1,17 @@
+.container1{
+    border: dotted;color: aqua;
+    padding: 10px;
+    margin: 0 auto;
+    
+}
+.container2{
+    border:solid; 
+    border-color: rgb(255, 153, 127);
+    padding: 20px;
+    margin: 5%;
+    
+}
+#text{
+    font-style: italic;
+    font-weight: bolder;
+}
